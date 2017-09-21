@@ -9,8 +9,8 @@ I may consider adding less-commented, more succinct, or Typed examples, as well.
 - [x] Futures
 - [x] Promises
 - [x] Observables
-- [] Streams (Node-like)
-- [] Fibers
+- [ ] Streams (Node-like)
+- [ ] Fibers
 
 ### NOTE:
 This is not remotely intended for production. Not even a little. These aren't meant for performance or production. I feel that the abject aversion to closure in a lot of codebases is *crazy*, especially with the huge lengths developers will go to implement simple things using a more OO fashion (really, how many objects and proxy dispatches does it take to make up for a couple of closures?). But with all of that said, these are not performance tested, nor battle-hardened, and shall likely never be.
